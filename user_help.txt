@@ -1,0 +1,9 @@
+Navigate to the backend project in the file explorer within VSCode.
+Open a terminal within the backend project.
+Run the command "npm install" in the terminal to install the required dependencies.
+After the installation is complete, run the command "npm run dev" in the terminal. This will start the backend server.
+open another terminal and install ganache:
+‘npm install -g ganache-cli’
+Afterward run ganache:
+‘npx ganache-cli --deterministic --account_keys_path accounts.json --port 8545’
+after you run ganache you can see the availble private keys with its public key.
