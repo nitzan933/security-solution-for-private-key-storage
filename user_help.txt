@@ -1,0 +1,5 @@
+Switch to the frontend project in the file explorer within VSCode (open the src folder).
+Open a terminal within the front-end project.
+Run the command "npm install" in the terminal to install the necessary dependencies.
+Change the directory to "src/backend/" using the command "cd src/backend/" in the terminal.
+Run the command "node server.js" to start the frontend server.
