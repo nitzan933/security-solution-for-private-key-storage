@@ -1,0 +1,4 @@
+Open the validators project in a separate instance of VSCode.
+Open a terminal within the validators project.
+Run the command "npm install" to install the required dependencies.
+Execute the command "node utils.js" to run the validators.
